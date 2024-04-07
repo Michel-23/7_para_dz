@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/PC/7_para_dz/build",
+  "command": "C:\\MinGW\\bin\\g++.exe    -std=c++17 -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\PC\\7_para_dz\\main.cpp",
+  "file": "C:/Users/PC/7_para_dz/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

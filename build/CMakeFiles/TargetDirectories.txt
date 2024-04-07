@@ -1,0 +1,3 @@
+C:/Users/PC/7_para_dz/build/CMakeFiles/main.dir
+C:/Users/PC/7_para_dz/build/CMakeFiles/edit_cache.dir
+C:/Users/PC/7_para_dz/build/CMakeFiles/rebuild_cache.dir
